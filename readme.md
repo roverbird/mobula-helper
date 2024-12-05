@@ -1,3 +1,9 @@
+# Update Dec 5 2024
+
+**You should not rely on Mobula.fi / Mobula.io in crypto market data. Their reporting is unfortunatelly not accurate. The prices that your get from their API unfortunatelly do not reflect actual market prices. Unless they do something about it, you are warned not to use this provider.** 
+
+Cannot imagine anyone paying for their services at such level or reliability, really. Highly dissatisfying experience as a customer. No support line, and contact form from admin panel is unreachable.
+
 # What is Mobula?
 
 [Mobula.io](https://mobula.io) is an excellent data provider for the crypto finance industry. It allows users to get "free multi-chain real-time data about any crypto asset & wallet & transaction, such as crypto price, crypto marketcap, wallet balance, exchange routes, and more".
@@ -11,8 +17,6 @@ The purpose of `mobulaDiagnoz.py` is to check the integrity of your downloads. I
 Notice, this is an unofficial repo for educational purposes only, use and modify at your own risk, no liability of any kind.
 
 # Why Mobula?
-
-In my experience, Mobula is a reliable crypto data provider. It has a generous `hobby` plan, which is free of charge, and the data it gives is of high quality. Always use `mobulaDiagnoz.py` to check the data that you receive if missing values are a crucial concern.
 
 Please, refer to Mobula's official documentation, found at their [website](https://mobula.io/apis).
 
